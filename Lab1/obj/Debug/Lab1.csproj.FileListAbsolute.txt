@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\User\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Ксюша\Documents\Visual Studio 2012\Projects\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Ksenia\Documents\Visual Studio 2012\Projects\Lab1_Filters\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
